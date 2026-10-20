@@ -1,0 +1,58 @@
+[[A0]]
+[[B1]]
+[15.0:] Dusty roads behind me, a map creased in my hand.
+[:] Old familiar comforts, now a distant, fading land.
+[:] Sunrise paints the highway, with colours soft and deep,
+[:] A quiet hum within me, secrets I will keep.
+[:] The engine's steady rhythm, a pulse against the grey,
+[:] Carries me to futures, so many miles away.
+[[C2]]
+[45.0:] Oh, city of new whispers, a silhouette so grand,
+[:] A tapestry of stories, I long to understand.
+[:] Each brick a silent promise, each shadow a soft gleam,
+[:] Am I truly ready for this vibrant, waking dream?
+[[B3]]
+[66.0:] Through bustling streets I wander, a stranger to this pace,
+[:] New faces, hurried footsteps, a smile on every face.
+[:] The coffee shop aroma, the distant church bells chime,
+[:] A different kind of cadence, defying space and time.
+[:] From a window, high above me, a melody takes flight,
+[:] Inviting me to listen, and bask within its light.
+[[C4]]
+[96.0:] Oh, city of new whispers, a silhouette so grand,
+[:] A tapestry of stories, I long to understand.
+[:] Each brick a silent promise, each shadow a soft gleam,
+[:] Am I truly ready for this vibrant, waking dream?
+[[D5]]
+[117.0:] A little fear unwinding, a hope that starts to bloom,
+[:] No longer just observing, I step into each room.
+[:] The courage found in silence, the strength within my stride,
+[:] This new beginning beckons, nowhere left to hide.
+[[E6]]
+[135.0:] And as the evening settles, soft lamplight through the haze,
+[:] I feel a quiet grounding, through these unfolding days.
+[:] This city calls me closer, with every breath I take,
+[:] A brand new life is waiting, for goodness gracious sake.
+[[A7]]
+[156.0:] (Mmm, mmm, mmm...)
+[:] (For goodness gracious sake...)
+mosic: 4.5
+bpm: 80.0
+duration_secs: 168.0
+good_crop: 1.0
+[[A0]]
+[0.0:] An immersive, ambient folk introduction in A minor defined by a sense of quiet morning light. The segment is anchored by a warm, resonant steel-string acoustic guitar performing a delicate, rhythmic fingerpicking pattern. The rhythm is subtle, implied by the pulse of the strings and the very soft, deep hum of an upright bass playing low-frequency root notes. The instrumentation features long, sustained cello lines that provide a melancholic, woody texture, accompanied by soft, echoing piano arpeggios that twinkle in the higher register. Airy synthesizer pads swell slowly in the background, filling the sonic space with a hazy, dream-like quality. The melodic structure is repetitive and contemplative, creating a spacious atmosphere reminiscent of a solitary road trip at dawn. There are no vocals in this segment. The interaction between the intricate guitar and the sweeping cello establishes the track's primary themes of travel and introspection.
+[[B1]]
+[15.0:] A hushed and intimate ambient folk verse in A minor defined by a minimalist rhythmic foundation. The segment is anchored by a solo fingerpicked acoustic guitar with a warm, mahogany-like tone. The rhythm is established by a soft, delicate pulse from an upright bass and the occasional, light texture of soft brushes on a snare drum, providing a gentle forward momentum typical of Contemporary Folk. The instrumentation includes a faint, distant piano arpeggio that echoes into a vast reverb, and slow-moving cello swells that sit low in the mix. The vocal performance features an expressive, breathy female mezzo-soprano with a clear, intimate timbre, delivering the lyrics in a hushed, storyteller-like manner close to the microphone. The melodic structure is narrow and breathy, reflecting a sense of private reflection. The interaction between the solitary voice and the sparse instrumentation creates a vulnerable, close-up atmosphere, evocative of sitting inside a moving car watching the world pass by.
+[[C2]]
+[45.0:] A resonant and blossoming ambient folk chorus in A minor defined by a widening of the stereo field and dynamic energy. The segment is anchored by a full, rhythmic fingerpicking pattern on the acoustic guitar and a rich, grounding presence of an upright bass. The rhythm is more pronounced, featuring soft brushes on a snare and muffled mallets hitting a distant tom drum on the backbeats, creating a 'flowing pulse' characteristic of Chamber Folk. The instrumentation expands to include soaring, sustained cello lines and echoing piano arpeggios that weave throughout the melody, supported by airy pads that swell in volume. The vocal performance features an expressive female mezzo-soprano, her voice becoming slightly more resonant and hopeful, layered with subtle vocal harmonies for a fuller texture. The melodic structure lifts in pitch and scale, feeling more open and anthemic. The interaction of the melodic cello and the pulsing percussion creates a feeling of anticipation and wonder. The atmosphere is grand and reflective, typical of a 'cinematic folk' crescendo.
+[[B3]]
+[66.0:] A contemplative and atmospheric ambient folk verse in A minor defined by a return to a hushed, reflective tone. The segment is anchored by the rhythmic fingerpicking of a mahogany acoustic guitar. The rhythm remains gentle, with a soft upright bass and delicate brushes on a snare maintaining a minimal, flowing pulse. The instrumentation focuses on the interplay between a sustained cello line and the soft, echoing piano arpeggios that create a sense of vast space. The vocal performance features the female mezzo-soprano with a breathy, clear timbre, returning to a reflective hush that emphasizes the detail of the urban scene. Her delivery is intimate and slightly more rhythmic to match the bustle of the lyrics. The melodic structure is conversational, matching the steady cadence of the coffee shop sounds and church bells mentioned. The atmosphere is observant and serene, evoking a sense of calm amidst the 'bustle' of a new city.
+[[C4]]
+[96.0:] A resonant and blossoming ambient folk chorus in A minor defined by a widening of the stereo field and dynamic energy. The segment is anchored by a full, rhythmic fingerpicking pattern on the acoustic guitar and a rich, grounding presence of an upright bass. The rhythm is more pronounced, featuring soft brushes on a snare and muffled mallets hitting a distant tom drum on the backbeats, creating a 'flowing pulse' characteristic of Chamber Folk. The instrumentation expands to include soaring, sustained cello lines and echoing piano arpeggios that weave throughout the melody, supported by airy pads that swell in volume. The vocal performance features an expressive female mezzo-soprano, her voice becoming slightly more resonant and hopeful, layered with subtle vocal harmonies for a fuller texture. The melodic structure lifts in pitch and scale, feeling more open and anthemic. The interaction of the melodic cello and the pulsing percussion creates a feeling of anticipation and wonder. The atmosphere is grand and reflective, typical of a 'cinematic folk' crescendo.
+[[D5]]
+[117.0:] A poignant and suspended ambient folk bridge in A minor defined by a shift in harmony and texture. The segment is anchored by the sustained, low notes of an upright bass and long, sweeping cello lines that create a deep, melancholic foundation. The rhythm pulls back, removing the brushes and leaving only the faint, rhythmic mallet hits on a tom to provide a distant, heartbeat-like pulse. The instrumentation features more active piano arpeggios that create a 'sparkling' melodic web around the guitar's fingerpicked foundation. The vocal performance features a female mezzo-soprano with a breathy, emotive timbre, reaching into her higher range with a fragile but strengthening tone. The melodic structure explores new intervals, creating a sense of growth and 'unwinding' fear. The atmosphere is transformative and brave, evoking the internal psychological transition from observation to action.
+[[E6]]
+[135.0:] A calming and resolving ambient folk outro in A minor defined by a sense of finality and peace. The segment is anchored by the gentle, fading fingerpicking of the acoustic guitar. The rhythm slowly deconstructs, with the percussion and brushes gradually stopping, leaving only the soft pulse of the upright bass. The instrumentation features long, sustained cello lines and echoing piano arpeggios that slowly fade into the background airy synthesizer pads. The vocal performance features the female mezzo-soprano with a breathy, clear timbre, returning to a reflective hush, eventually transitioning into wordless, melodic humming. The melodic structure resolves back to the home key chord, holding it in a wash of reverb. The interaction between the fading instruments suggests the quiet settling of the evening. The atmosphere is grounded and peaceful, signifying a successful transition into a new chapter.
+[[A7]]
+[156.0:] A fading, atmospheric ambient folk conclusion in A minor defined by the gradual decay of sound. The segment is anchored by a final, sustaining chord on the fingerpicked acoustic guitar. The rhythm has ceased entirely, leaving only the reverberant tail of a mallet hit. The instrumentation is reduced to the airy synthesizer pads and the lingering high-frequency sparkle of a final piano arpeggio. The vocal performance consists of a final, breathy hum by the female mezzo-soprano that dissolves into the background textures. The structure is one of gradual dissolution. The atmosphere is silent and profound, signifying the end of the narrative and the beginning of a life lived in the 'new city'.

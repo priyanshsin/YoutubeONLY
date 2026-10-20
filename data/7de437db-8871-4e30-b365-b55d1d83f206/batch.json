@@ -1,0 +1,57 @@
+{
+  "id": "7de437db-8871-4e30-b365-b55d1d83f206",
+  "created_at": "2026-10-20T12:46:09.016498+00:00",
+  "release_at": 1792500369.0164983,
+  "status": "failed",
+  "songs": [
+    {
+      "index": 1,
+      "language": "Hindi",
+      "genre": "electronic dance pop",
+      "theme": "a monsoon reunion",
+      "status": "ready",
+      "title": "मानसून मिलन",
+      "url": null
+    },
+    {
+      "index": 2,
+      "language": "Hindi",
+      "genre": "indie rock",
+      "theme": "hope after a difficult night",
+      "status": "ready",
+      "title": "Nayi Subah Ki Dastaan",
+      "url": null
+    },
+    {
+      "index": 3,
+      "language": "English",
+      "genre": "synth pop",
+      "theme": "a journey to a new city",
+      "status": "ready",
+      "title": "New Horizon's Call",
+      "url": null
+    },
+    {
+      "index": 4,
+      "language": "English",
+      "genre": "ambient folk",
+      "theme": "a journey to a new city",
+      "status": "generating",
+      "title": "Song 4",
+      "url": null
+    },
+    {
+      "index": 5,
+      "language": "Hindi-English mix (Hinglish)",
+      "genre": "cinematic pop",
+      "theme": "a peaceful mountain morning",
+      "status": "queued",
+      "title": "Song 5",
+      "url": null
+    }
+  ],
+  "email": {
+    "status": "pending"
+  },
+  "error": "aiplatform.googleapis.com / lyria-3-pro-preview: HTTP 400. Request blocked for an unspecified policy reason. Please modify your input and retry."
+}

@@ -1,0 +1,57 @@
+[[A0]]
+[0.0:] Raat bhar jaaga tha main, saaye ghere the,
+[:] Andhere kamron mein, ansoo bahe the.
+[:] Ek boj tha dil pe, jo utra nahi,
+[:] Har pal tha mushkil, thahra kahi.
+[[B1]]
+[32.0:] Par dekho, woh aayi hai, nayi subah ki dastaan!
+[:] Dheere se khul rahe hain, band darwaaze yahan!
+[:] Ujale ki kiranein, chhu rahi hain zameen ko!
+[:] Fir se jeene ki chahat, mili hai har kahin ko!
+[:] (Mili hai har kahin ko!)
+[[A2]]
+[54.9:] Purani yaadein, dhundli ho rahi hain,
+[:] Kal ki woh baatein, ab kahin kho rahi hain.
+[:] Hawayein jo behti hain, kuch naya laayi hain,
+[:] Toote hue khwabon ko, fir se jagayi hain.
+[[B3]]
+[77.8:] Aur dekho, woh aayi hai, nayi subah ki dastaan!
+[:] Dheere se khul rahe hain, band darwaaze yahan!
+[:] Ujale ki kiranein, chhu rahi hain zameen ko!
+[:] Fir se jeene ki chahat, mili hai har kahin ko!
+[:] (Mili hai har kahin ko!)
+[[C4]]
+[100.7:] Har ek pal ab, lagta hai pyara,
+[:] (Lagta hai pyara)
+[:] Is nayi roshni ka, mila hai sahara.
+[:] (Mila hai sahara)
+[:] Himmat ab aayi hai, badhne ki raahon par,
+[:] Chhod chale hain hum, saare dukhon ko pichhe ab.
+[[B5]]
+[128.1:] Haan dekho, woh aayi hai, nayi subah ki dastaan!
+[:] Dheere se khul rahe hain, band darwaaze yahan!
+[:] Ujale ki kiranein, chhu rahi hain zameen ko!
+[:] Fir se jeene ki chahat, mili hai har kahin ko!
+[:] Fir se jeene ki chahat, mili hai har kahin ko!
+[[D6]]
+[151.0:] Nayi subah... nayi roshni...
+[:] Umeed ki.. yeh kahani...
+[:] Dastaan...
+mosic: 4.5
+bpm: 105.0
+duration_secs: 173.5
+good_crop: 1.0
+[[A0]]
+[0.0:] A clean, slightly melancholic Indie Rock sound defined by a sparse and reflective arrangement. The segment is anchored by a solo electric guitar playing a fragile, ringing arpeggio in G Major, using a clean tone with a touch of shimmer. The rhythm is extremely minimal, featuring only a gentle, muffled kick drum hitting on the downbeats and an occasional soft, wooden stick click. A deep, subtle bass guitar provides a sustaining low-end hum that follows the root notes. The vocal performance features a male tenor with a breathy, intimate, and raw timbre, delivering the lyrics in Hindi with an almost whispered intensity. The melodic structure is simple and repetitive, creating a sense of quiet solitude. The interaction between the intricate guitar plucking and the vulnerability of the voice evokes a nocturnal, pensive atmosphere, typical of a slow-burning emotional ballad.
+[[B1]]
+[32.0:] A soaring, anthemic Indie Rock chorus defined by a powerful explosion of sound. The segment is anchored by dual-layered electric guitars; one playing wide, heavily distorted power chords and another playing a bright, high-octave lead melody. The rhythm is driven by powerful, energetic drums featuring a loud, wooden snare on the two and four, and a steady, eighth-note hi-hat pattern. A prominent, melodic bass line provides a thick, warm foundation that locks in with the driving kick drum. The vocal performance features the male tenor shifting to a powerful, slightly anthemic belt, delivering the Hindi lyrics with a sense of soaring hope. The melodic structure is expansive and soaring, utilizing wide interval jumps to emphasize the shift in mood. The interaction between the dense wall of guitars and the commanding vocals creates a triumphant, high-energy atmosphere, reminiscent of modern festival rock anthems.
+[[A2]]
+[54.9:] A building, gritty Indie Rock verse defined by a sense of forward momentum. The segment is anchored by a slightly overdriven electric guitar riff playing a rhythmic, chugging pattern. The rhythm is more active than the previous verse, featuring steady eighth-note pulses on a closed hi-hat and a driving kick drum that sets a purposeful pace. A prominent, melodic bass line drives the harmony forward with a fuzzy, mid-range presence. The vocal performance features the male tenor with a raw, expressive timbre, singing with more volume and grit than the initial section, yet maintaining an intimate connection to the lyrics. The melodic structure incorporates more rhythmic variation. The interaction between the active drum kit and the rhythmic guitar creates a feeling of awakening and movement. The atmosphere is determined and focused, moving away from shadows toward clarity.
+[[B3]]
+[77.8:] A soaring, anthemic Indie Rock chorus defined by a powerful explosion of sound. The segment is anchored by dual-layered electric guitars; one playing wide, heavily distorted power chords and another playing a bright, high-octave lead melody. The rhythm is driven by powerful, energetic drums featuring a loud, wooden snare and a steady, driving kick. A prominent, melodic bass line provides a thick, warm foundation. The vocal performance features the male tenor shifting to a powerful, slightly anthemic belt, delivering the Hindi lyrics with a sense of soaring hope. The melodic structure is expansive and soaring. The interaction between the dense wall of guitars and the commanding vocals creates a triumphant, high-energy atmosphere, evocative of finding light after a long struggle.
+[[C4]]
+[100.7:] A dynamic, atmospheric Indie Rock bridge defined by a cinematic build-up. The segment is anchored by a driving, palm-muted electric guitar that gradually releases into full-energy strumming. The rhythm features a complex drum fill pattern with heavy tom-tom accents and rising cymbal swells that create a physical sense of lifting. The instrumentation includes a bright, lush synthesizer pad layer that provides a shimmering, ethereal backdrop to the heavy guitars. A thick, sustaining bass guitar fills the low end with vibrating power. The vocal performance features the male tenor singing in his upper register with a raw, passionate intensity, holding longer notes as the instrumentation expands. The melodic structure uses rising chromatic intervals to build tension. The atmosphere is cathartic and peak-intensity, evoking a moment of total breakthrough.
+[[B5]]
+[128.1:] A final, maximalist Indie Rock chorus defined by its peak emotional and musical volume. The segment is anchored by three layers of distorted electric guitars creating a wide, overwhelming wall of sound, accompanied by a soaring, high-pitched lead synth. The rhythm is at its most aggressive, with loud, crashing crash cymbals and a driving, four-on-the-floor kick drum pattern. A melodic, overdriven bass guitar drives the harmony with force. The vocal performance features the male tenor with a powerful, anthemic belt, incorporating some gritty ad-libs and harmonies to increase the richness. The melodic structure is triumphant and overpowering. The interaction of all instruments creates a blistering, euphoric finish to the core song. The atmosphere is one of absolute liberation and joy.
+[[D6]]
+[151.0:] A spacious, resolving Indie Rock outro defined by a gentle deconstruction. The segment is anchored by a single, reverb-drenched electric guitar playing a slow, melodic line that echoes the chorus theme. The rhythm section drops out completely, leaving only the fading decay of the drums. The instrumentation features a subtle, high-pitched synth texture that hums like morning sunlight. The vocal performance features the male tenor singing the final Hindi lines softly, his voice becoming a breathy whisper as it fades away. The melodic structure simplifies into a single, held chord on the guitar. The interaction is sparse and delicate, creating a sense of lingering peace. The atmosphere is calm, hopeful, and cinematic, evocative of a sunrise finally reaching its full height.

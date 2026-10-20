@@ -1,0 +1,63 @@
+[[A0]]
+[0.0:] काली घटाएँ छाईं, फिर वही धुंधली शाम
+[:] तेरी यादें लाईं, दिल को ना अब आराम
+[:] बरस रही हैं बूंदे, भिगो रही हर पल
+[:] कैसे मैं भूलूँ तुझको, जब मौसम जाए बदल
+[[B1]]
+[23.0:] धड़कनें मेरी तेज़, तू करीब आ रहा है
+[:] ये पल, ये समां, फिर हमें बुला रहा है
+[[C2]]
+[38.4:] मानसून मिलन, रात भर नाचें हम
+[:] बीते पल भूलकर, गाएँ ये धुन हम
+[:] बिजली चमके, बादल गरजें, भीगी है ये रात
+[:] तेरी मेरी साँसों में, बस प्यार की बात
+[[A3]]
+[69.1:] शहर सोया है गहरा, जगमगाती रोशनी
+[:] गीली सड़कों पे छाया, तेरी मेरी कहानी
+[:] हाथों में हाथ थामें, खो जाएँ इस पल में
+[:] जैसे पहले मिलते थे, उसी पुराने आलम में
+[[B4]]
+[92.1:] धड़कनें मेरी तेज़, तू करीब आ रहा है
+[:] ये पल, ये समां, फिर हमें बुला रहा है
+[[C5]]
+[107.5:] मानसून मिलन, रात भर नाचें हम
+[:] बीते पल भूलकर, गाएँ ये धुन हम
+[:] बिजली चमके, बादल गरजें, भीगी है ये रात
+[:] तेरी मेरी साँसों में, बस प्यार की बात
+[[B6]]
+[138.2:] ये जादू बारिश का, दिलों को पास लाए
+[:] हर बूंद में है चाहत, कैसे हम समझाएँ
+[:] खो जाओ मुझमें तुम, मैं खो जाऊँ तुझमें
+[:] ये रात ना ख़त्म हो, बस यहीं थमे
+[[D7]]
+[157.4:] मानसून मिलन, रात भर नाचें हम
+[:] बीते पल भूलकर, गाएँ ये धुन हम
+[:] बिजली चमके, बादल गरजें, भीगी है ये रात
+[:] तेरी मेरी साँसों में, बस प्यार की बात
+[:] मानसून मिलन, रात भर नाचें हम
+[:] बीते पल भूलकर, गाएँ ये धुन हम
+[:] बिजली चमके, बादल गरजें, भीगी है ये रात
+[:] तेरी मेरी साँसों में, बस प्यार की बात
+[:] आ... आ...
+[:] फिर से मिलन... इस बारिश में...
+[:] नाचें... रात भर... आ...
+mosic: 4.5
+bpm: 125.0
+duration_secs: 170.0
+good_crop: 1.0
+[[A0]]
+[0.0:] An energetic, atmospheric Electronic Dance Pop verse defined by its lush, layered textures. The segment is anchored by a plucky, driving synth bassline playing a consistent rhythmic pattern. The rhythm is driven by a steady kick drum and a crisp, modern snare hitting on the two and four, characteristic of Indie-Pop and Synth-Pop. The instrumentation includes bright, shimmering synthesizer arpeggios that twinkle in the upper register and wide, swelling atmospheric pads that create a sense of vast space. The vocal performance features a female soprano with an expressive and clear timbre singing in Hindi, her voice sitting prominently in the mix. The interaction between the intricate arpeggios and the smooth vocal line creates a balance of complexity and melody. The atmosphere is nostalgic and inviting, evoking a rainy city street lit by glowing lanterns.
+[[B1]]
+[23.0:] A high-tension EDM build-up defined by increasing rhythmic density and ascending melodic structures. The segment is anchored by a rapid snare drum roll that doubles in speed, layered with cinematic white noise sweeps that rise in volume. The rhythm is frantic and upward-surging, typical of modern Dance Pop pre-drops. The instrumentation features a 'riser' synth that slides upward in pitch and a low-pass filter effect on the pads that gradually opens up, making the sound brighter and more aggressive. The vocal performance features the female soprano with a clear timbre singing urgent, short Hindi phrases, with her voice becoming progressively louder and more strained as she reaches for a higher register. The interaction of the filtering effects and the accelerating percussion creates a powerful sense of anticipation. The atmosphere is adrenaline-fueled and celebratory.
+[[C2]]
+[38.4:] A powerful, explosive Electronic Dance Pop chorus defined by a heavy, resonant drop. The segment is anchored by a deep, booming 808-style kick drum that provides a vibrating foundation, paired with a thick, side-chained synth bass that pulses in time. The rhythm is a driving, four-on-the-floor beat with sharp, metallic hi-hat patterns and a punchy clap on every second beat. The instrumentation features bright, sparkling synth melodies and a lead synthesizer that mimics the vocal hook, layered with filtered Hindi vocal samples and rhythmic synth plucks. The vocal performance features the female soprano singing a catchy, melodic hook in Hindi, her voice enriched by soaring harmonies and a subtle vocoder effect that adds a modern electronic texture. The interaction between the heavy bass and the bright leads creates a peak euphoric soundscape. The atmosphere is transcendental and high-energy, typical of a main festival stage anthem.
+[[A3]]
+[69.1:] An energetic, atmospheric Electronic Dance Pop verse defined by its groovy, stripped-back arrangement. The segment is anchored by a driving synth bassline and a punchy kick drum that keeps the 125 BPM tempo. The rhythm features tight hi-hat rolls and a crisp snare, maintaining a danceable momentum. The instrumentation includes layered atmospheric pads and subtle synth arpeggios that dance around the frequency spectrum. The vocal performance features the female soprano with an expressive and clear timbre singing in Hindi, delivering the lines with a playful, storytelling quality. The interaction between the rhythmic bass and the airy vocal textures creates a sense of casual sophistication. The atmosphere is intimate yet active, evoking the neon glow of a city at night.
+[[B4]]
+[92.1:] A high-tension EDM build-up defined by increasing rhythmic density and ascending melodic structures. The segment is anchored by a rapid snare drum roll and a high-pitched synthesizer riser that creates a physical sense of pressure. The rhythm is frantic, with a ticking percussion sound adding to the urgency. The instrumentation features white noise sweeps and dynamic filter automation that removes all low-end frequencies, creating a thin, urgent sound that demands resolution. The vocal performance features the female soprano with a clear timbre singing urgent, short Hindi phrases, reaching toward her highest range with power and clarity. The interaction of the accelerating percussion and the lifting filters creates a 'sonic vacuum' effect. The atmosphere is electric and high-stakes.
+[[C5]]
+[107.5:] A powerful, explosive Electronic Dance Pop chorus defined by a heavy, resonant drop. The segment is anchored by a deep, booming 808-style kick drum and a thick, side-chained synth bass. The rhythm is a driving, four-on-the-floor beat with sharp hi-hat patterns and a punchy clap on every second beat. The instrumentation features bright, sparkling synth melodies, atmospheric pads, and rhythmic filtered vocal samples that interlock with the percussion. The vocal performance features the female soprano singing the catchy Hindi hook, enriched by soaring harmonies and a subtle vocoder effect. The interaction between the heavy, pulsing bass and the bright leads creates a wall of euphoric sound. The atmosphere is transcendental and high-energy, reminiscent of a peak moment at an outdoor dance event.
+[[B6]]
+[138.2:] A suspenseful, atmospheric Electronic Pop bridge defined by a shift into a dreamier, more ethereal space. The segment is anchored by a sustaining, deep synth pad that provides a grounding root note. The rhythm is sparse, featuring only echoing rim-shots and a soft, rhythmic shaker. The instrumentation features a swirling, resonant synthesizer motif that moves across the stereo field and shimmering arpeggios that slow down their rate. The vocal performance features the female soprano with a clear and expressive timbre singing in Hindi, her voice drenched in reverb and long delay tails. The interaction between the slow-moving pads and the fast, echoing vocals creates a sense of suspension and timelessness. The atmosphere is magical and intimate, like a private conversation held in the middle of a storm.
+[[D7]]
+[157.4:] A progressive, evolving Electronic Dance Pop outro defined by increasing rhythmic complexity and a swirling synth motif. The segment is anchored by a driving synth bassline that remains steady while the other instruments slowly fade. The rhythm begins as a standard four-on-the-floor beat but incorporates more complex, syncopated electronic percussion as it progresses. The instrumentation features a swirling synthesizer motif that becomes more prominent, along with echoing melodic fragments from the chorus. The vocal performance features the female soprano with a clear timbre providing wordless 'Aa' ad-libs and final, echoed phrases in Hindi, which slowly lose clarity as the reverb tails take over. The melodic structure remains constant as the layers are stripped away, eventually leaving only the pulsing bass and the sound of rain. The atmosphere is resolving and reflective, signaling the end of the journey.
