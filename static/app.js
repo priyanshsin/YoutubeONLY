@@ -6,7 +6,7 @@ const formatTime = value => new Date(typeof value === "number" ? value * 1000 : 
 function notice(text) { $("notice").hidden = !text; $("notice").textContent = text; }
 function countdown() {
   if (!state) return;
-  const active = state.batches.find(b => !["complete","failed","interrupted"].includes(b.status));
+  const active = state.batches.find(b => !["complete","failed","interrupted","superseded"].includes(b.status));
   const target = active?.release_at ?? state.next_release;
   const seconds = Math.max(0, Math.floor(target - Date.now()/1000));
   const hours = Math.floor(seconds/3600), minutes = Math.floor(seconds%3600/60), rest = seconds%60;
@@ -36,7 +36,7 @@ function draw() {
         ${song.published_at?`<p>${escape(formatTime(song.published_at))}</p>`:""}
         ${playable?`<button class="secondary preview-song" data-video="${base}/video" data-title="${escape(song.title)}">▶ Preview</button>`:""}
         ${song.url?.startsWith("https://www.youtube.com/watch?v=")?`<a href="${escape(song.url)}" target="_blank" rel="noopener">YouTube ↗</a>`:""}</article>`;
-      }).join("")}</div><div class="batch-foot">Email: ${batch.email.status==="sent"?"Accepted by Resend with five MP3 attachments":escape(batch.email.status)}
+      }).join("")}</div><div class="batch-foot">Email: ${batch.email.status==="sent"?"Accepted by Resend with MP3 attachments":escape(batch.email.status)}
       ${batch.error?`<p class="error">${escape(batch.error)}</p><button class="secondary retry" data-id="${escape(batch.id)}">Retry unfinished work</button>`:""}</div></section>`).join("");
   }
   $("logs").textContent = state.logs.map(l=>`${formatTime(l.at)}  ${l.message}`).join("\n") || "Waiting for activity…";
@@ -54,7 +54,7 @@ async function action(name, id) {
   } catch(e) { notice(e.message); }
 }
 $("pause").onclick = () => action(state.enabled?"pause":"resume");
-$("run").onclick = () => { if(confirm("Generate and publicly publish five songs now, then email all five MP3s? API charges apply.")) action("run"); };
+$("run").onclick = () => { if(confirm("Generate and publicly publish two songs now, then email both MP3s? API charges apply.")) action("run"); };
 $("batches").addEventListener("click", e => {
   const button = e.target.closest("button");
   if(!button) return;

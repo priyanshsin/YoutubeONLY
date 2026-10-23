@@ -31,7 +31,9 @@ from flask import Flask, jsonify, render_template, request, send_file, abort
 
 INTERVAL = 24 * 3600
 PREPARE_AHEAD = 3600
-LANGUAGES = ["Hindi", "Hindi", "English", "English", "Hindi-English mix (Hinglish)"]
+LANGUAGES = ["Hindi", "English"]
+MOTIVATIONAL_THEME = "Motivational and energetic: build self-belief, persevere through challenges, and take action toward your goals"
+ENERGETIC_GENRES = ["energetic pop rock", "uplifting dance pop", "driving synth pop", "anthemic rock"]
 IST = ZoneInfo("Asia/Kolkata")
 
 
@@ -44,7 +46,7 @@ def stamp(value):
 
 
 def plans():
-    choices = random.sample(list(itertools.product(pipeline.GENRES, pipeline.THEMES)), 5)
+    choices = [(genre, MOTIVATIONAL_THEME) for genre in random.sample(ENERGETIC_GENRES, len(LANGUAGES))]
     return [{"index": i + 1, "language": language, "genre": genre, "theme": theme,
              "status": "queued", "title": f"Song {i + 1}", "url": None}
             for i, (language, (genre, theme)) in enumerate(zip(LANGUAGES, choices))]
@@ -207,11 +209,11 @@ class Manager:
         if payload_file.exists():
             payload = pipeline.read_json(payload_file)
         else:
-            lines = ["Your five MusicalBUNKER songs are now public.", ""]
+            lines = ["Your MusicalBUNKER songs are now public.", ""]
             attachments = []
             for song in batch["songs"]:
                 if song["status"] != "published":
-                    raise RuntimeError("Email report requires five verified public songs.")
+                    raise RuntimeError("Email report requires every song to be verified public.")
                 published = datetime.fromisoformat(song["published_at"].replace("Z", "+00:00"))
                 lines.extend([f"{song['index']}. {song['title']} ({song['language']}; {song['genre']})",
                               song["url"], "Published: " + published.astimezone(IST).strftime(
@@ -219,10 +221,10 @@ class Manager:
                 audio = self.attachment(folder / f"song-{song['index']:02d}")
                 attachments.append({"filename": f"{song['index']:02d}-{song['language'].split()[0]}-song.mp3",
                                     "content": base64.b64encode(audio.read_bytes()).decode("ascii")})
-            lines.append("All five complete songs are attached as MP3 files. Created with AI tools.")
+            lines.append("All complete songs are attached as MP3 files. Created with AI tools.")
             payload = {"from": os.getenv("RESEND_FROM_EMAIL", "MusicalBUNKER <onboarding@resend.dev>"),
                        "to": [os.getenv("REPORT_EMAIL", "priyanshsingh.indian@gmail.com")],
-                       "subject": "MusicalBUNKER â€” 5 new songs are public",
+                       "subject": f"MusicalBUNKER - {len(batch['songs'])} new songs are public",
                        "text": "\n".join(lines), "attachments": attachments}
             if len(json.dumps(payload).encode("utf-8")) > 23_000_000:
                 raise RuntimeError("Email exceeds the attachment budget. Files are saved; reduce MP3 bitrate.")
@@ -255,7 +257,7 @@ class Manager:
                         self.write_batch(batch)
                         args = argparse.Namespace(
                             topic=song["theme"], language=song["language"],
-                            style=f"{song['genre']}, expressive original vocals. "
+                            style=f"{song['genre']}, energetic, uplifting delivery with driving rhythms and motivational original vocals. "
                                   + ("Mix Hindi and English naturally in the same song."
                                      if "mix" in song["language"] else ""),
                             seconds=240, out=folder, upload=False, privacy="public",
@@ -296,7 +298,7 @@ class Manager:
                         next_release += INTERVAL
                     self.state["next_release"] = next_release
                     self.persist()
-                self.log("Five songs published. Resend accepted the report with five MP3 attachments.")
+                self.log("Two songs published. Resend accepted the report with two MP3 attachments.")
         except Exception as exc:
             message = str(exc) if isinstance(exc, (ValueError, RuntimeError)) else type(exc).__name__
             for name in ("GEMINI_API_KEY", "RESEND_API_KEY"):
@@ -443,7 +445,7 @@ def main():
     url = f"http://127.0.0.1:{args.port}"
     print(f"MusicalBUNKER Web: {url}", flush=True)
     print("Preview mode: no external actions." if args.preview else
-          "Schedule: five public songs every 24 hours; preparation starts one hour early.", flush=True)
+          "Schedule: two motivational, energetic public songs every 24 hours; preparation starts one hour early.", flush=True)
     if not args.no_browser:
         threading.Timer(1, lambda: webbrowser.open(url)).start()
     from waitress import serve

@@ -10,7 +10,7 @@ function draw() {
   $("gallery").replaceChildren();
   $("release-count").textContent = `${filtered.length} release${filtered.length === 1 ? "" : "s"}`;
   $("gallery-message").hidden = !!filtered.length;
-  $("gallery-message").textContent = songs.length ? "No songs match your search." : "Your collection begins with the first automatic release. The next five songs will appear here once published.";
+  $("gallery-message").textContent = songs.length ? "No songs match your search." : "Your collection begins with the first automatic release. The next two songs will appear here once published.";
   for(const song of filtered) {
     const card = element("article", "release-card");
     const base = `/media/${encodeURIComponent(song.batchId)}/${song.index}`;

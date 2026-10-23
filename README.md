@@ -4,7 +4,7 @@ Double-click **Start-Web.bat**. It starts the included MusicalBUNKER-Web.exe and
 
 Keep the server running, your PC awake, and the internet connected. Closing the browser is fine; closing the server stops the scheduler. This is a local app, not an always-on hosted website. The saved countdown survives restarts.
 
-The first release is scheduled 24 hours after the first launch. Preparation starts one hour before release. Each batch creates 2 Hindi songs, 2 English songs and 1 Hinglish song with random genres and themes, around 4 minutes each (strictly over 3 minutes). At the countdown deadline the app automatically uploads publicly to MusicalBUNKER, verifies YouTube processing, and emails priyanshsingh.indian@gmail.com with titles, links, publication times in IST, and all five full MP3 attachments. No publish confirmation is required for scheduled batches. Generation or processing delays can move actual publication later than the countdown.
+The first release is scheduled 24 hours after the first launch. Preparation starts one hour before release. Each batch creates 1 Hindi song and 1 English song with motivational themes, energetic vocals, and upbeat genres, around 4 minutes each (strictly over 3 minutes). At the countdown deadline the app automatically uploads publicly to MusicalBUNKER, verifies YouTube processing, and emails priyanshsingh.indian@gmail.com with titles, links, publication times in IST, and both full MP3 attachments. No publish confirmation is required for scheduled batches. Generation or processing delays can move actual publication later than the countdown.
 
 The Release gallery button opens every automatically published song from this Web app, including previews, genre/language search, and YouTube links. The YouTube channel button opens MusicalBUNKER. Older songs created by the desktop app are not imported.
 
@@ -24,4 +24,4 @@ A missed release is processed when the app runs again; it does not publish a flo
 
 ## Validation
 
-The automated tests exercise the language split, daily schedule, five-public-upload workflow, five email attachments, retry behavior, local request protection, and gallery. Test media and services are mocked; tests do not publish music or send email. The generation key was checked with a small real Gemini request and both local Cloud and YouTube authentication were verified. A full new live five-song batch and inbox delivery have not been tested.
+The automated tests exercise the language split, daily schedule, two-public-upload workflow, two email attachments, retry behavior, local request protection, and gallery. Test media and services are mocked; tests do not publish music or send email. The generation key was checked with a small real Gemini request and both local Cloud and YouTube authentication were verified. A full new live two-song batch and inbox delivery have not been tested.
